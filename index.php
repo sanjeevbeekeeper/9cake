@@ -8,7 +8,7 @@
 			<div class="col-12 d-none d-sm-inline-block col-sm-4 col-md-5 text-end">
 				<img class="img-fluid" src="assets/images/handmade.png" alt="Handmade with Love logo">
 				<div class="mt-3 d-none d-md-block">
-					<a href="" class="me-2 btn btn-lg btn-warning rounded-pill px-4">Order Form</a>
+					<a href="https://docs.google.com/forms/d/e/1FAIpQLSc2W7va_7H7URs1r2g5CJqiLRqetM3Gc3Za6Zp6TguS-N-7yA/viewform" class="me-2 btn btn-lg btn-warning rounded-pill px-4" target="_blank">Order Form</a>
 					<a href="how-it-works.php" class="me-2 mt-md-3 mt-xxl-0 btn btn-outline-dark rounded-pill px-4 border-2 fw-bold">How it works</a>
 					<div class="d-flex justify-content-end mt-3">
 						<div class="me-3 lh-base">Free Home Delivery within <br> Agrini and Vasudhara</div>
